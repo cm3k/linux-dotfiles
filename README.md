@@ -1,5 +1,3 @@
-### Please read
-I have taken a hiatus due to college and other personal reasons. I plan to come back in January with new dotfiles and other projects. Thank you so much for your understanding.
 
 # linux-dotfiles
 This is where I dump all of my dotfiles, I'll try to keep it as neat as possible!
